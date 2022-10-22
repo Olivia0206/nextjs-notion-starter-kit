@@ -6,6 +6,7 @@ export const GitHubShareButton: React.FC = () => {
   return (
     <a
       href='https://github.com/Olivia0206'
+      href='https://github.com/Olivia0206/nextjs-notion-starter-kit'
       target='_blank'
       rel='noopener noreferrer'
       className={styles.githubCorner}
