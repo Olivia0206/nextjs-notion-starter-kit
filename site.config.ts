@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '9f8053a044a14e2b92f4c93c270a550b?v=1d0341ed624d431a9ec80339e107c914',
+  rootNotionPageId: 'Tongshiiiy-e08d8bb8c4c447b89ed6530018a707ae',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Olivia\'s Blog',
-  domain: 'https://www.notion.so/9f8053a044a14e2b92f4c93c270a550b?v=1d0341ed624d431a9ec80339e107c914',
+  domain: 'https://www.notion.so/Tongshiiiy-e08d8bb8c4c447b89ed6530018a707ae',
   author: 'Olivia Tong',
 
   // open graph metadata (optional)
